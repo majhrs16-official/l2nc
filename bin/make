@@ -1,0 +1,1 @@
+gcc -Os -Wall usr/src/l2nc.c -o usr/bin/l2nc
